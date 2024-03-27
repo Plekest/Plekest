@@ -8,7 +8,6 @@
 
   
 <div>
-  <img align="center" height="70" width="90" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <img align="center" height="70" width="90" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg"/>
   <img align="center" height="70" width="90" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
 </div>
