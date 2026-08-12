@@ -35,7 +35,7 @@ Fui Desenvolvedor Full Stack na <a href="https://jspreadsheet.com"><b>Jspreadshe
   <td>Dashboard interativo em TypeScript e Vite, containerizado com Docker</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/rnyrms/dashjs"><b>dashjs</b></a> <sub>(em github.com/rnyrms)</sub></td>
+  <td><a href="https://github.com/rnyrms/dashjs"><b>dashjs</b></a></td>
   <td>Dashboard desenvolvido por mim do zero, em parceria com outro dev responsável pela estilização</td>
 </tr>
 <tr>
