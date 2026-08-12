@@ -1,5 +1,5 @@
 <h1 align="center">Pedro Teles Fernandes</h1>
-<p align="center">Desenvolvedor Full Stack — PHP/Laravel no back-end, Vue.js no front, DevOps no meio do caminho.</p>
+<p align="center">Desenvolvedor Full Stack - PHP/Laravel no back-end, Vue.js no front, DevOps no meio do caminho.</p>
 
 <p align="center">
 Fui Desenvolvedor Full Stack na <a href="https://jspreadsheet.com"><b>Jspreadsheet</b></a>, SaaS internacional usado por empresas como Samsung, Deloitte e Nissan, onde reduzi o tempo de carregamento do site em <b>84%</b> (Core Web Vitals) e criei do zero o <i>Online Editor</i> e a página de <i>Demos</i> usados pelos clientes da plataforma.
