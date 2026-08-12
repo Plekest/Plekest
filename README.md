@@ -2,24 +2,25 @@
 <p align="center">Desenvolvedor Full Stack — PHP/Laravel no back-end, Vue.js no front, DevOps no meio do caminho.</p>
 
 <p align="center">
-Atualmente construo o <b>Jspreadsheet</b>, produto SaaS internacional, onde reduzi o tempo de carregamento do site em <b>84%</b> (Core Web Vitals) e criei do zero o <i>Online Editor</i> e a página de <i>Demos</i> usados pelos clientes da plataforma.
+Fui Desenvolvedor Full Stack na <a href="https://jspreadsheet.com"><b>Jspreadsheet</b></a>, SaaS internacional usado por empresas como Samsung, Deloitte e Nissan, onde reduzi o tempo de carregamento do site em <b>84%</b> (Core Web Vitals) e criei do zero o <i>Online Editor</i> e a página de <i>Demos</i> usados pelos clientes da plataforma.
 </p>
 
 <br>
 
 <h3 align="center">Stack</h3>
-<div align="center">
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP"/>&nbsp;&nbsp;
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel"/>&nbsp;&nbsp;
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>&nbsp;&nbsp;
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" title="Vue.js"/>&nbsp;&nbsp;
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"/>&nbsp;&nbsp;
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/>&nbsp;&nbsp;
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Azure"/>&nbsp;&nbsp;
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/>&nbsp;&nbsp;
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Script" title="Shell Script"/>&nbsp;&nbsp;
-  <img height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Shell Script"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 <br>
 
@@ -34,7 +35,7 @@ Atualmente construo o <b>Jspreadsheet</b>, produto SaaS internacional, onde redu
   <td>Dashboard interativo em TypeScript e Vite, containerizado com Docker</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/rnyrms/dashjs"><b>dashjs</b></a></td>
+  <td><a href="https://github.com/rnyrms/dashjs"><b>dashjs</b></a> <sub>(em github.com/rnyrms)</sub></td>
   <td>Dashboard desenvolvido por mim do zero, em parceria com outro dev responsável pela estilização</td>
 </tr>
 <tr>
