@@ -34,7 +34,7 @@ Atualmente construo o <b>Jspreadsheet</b>, produto SaaS internacional, onde redu
   <td>Dashboard interativo em TypeScript e Vite, containerizado com Docker</td>
 </tr>
 <tr>
-  <td><a href="https://github.com/rnyrms/dashjs"><b>dashjs</b></a></td>
+  <td><a href="https://github.com/rnyrms/dashjs"><b>dashjs</b></a> <sub>(em github.com/rnyrms)</sub></td>
   <td>Dashboard desenvolvido por mim do zero, em parceria com outro dev responsável pela estilização</td>
 </tr>
 <tr>
